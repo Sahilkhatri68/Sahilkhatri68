@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahilkhatri68
-- 👀 I’m interested in Web developement 
-- 🌱 I’m currently learning Full Stack 
+- 👀 I’m interested in Web & app developement 
+- 🌱 Working as  (MERN) Stack developer   
 - 💞️ I’m looking for web devlopement projects 
 - 📫 How to reach me sahilkhatriss01@gmail.com
 
